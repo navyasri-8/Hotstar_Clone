@@ -1,2 +1,2 @@
 # Hotstar_Clone
-Created with CodeSandbox using HTML, CSS and Javascript
+Created Hotstar clone using HTML, CSS and Javascript
